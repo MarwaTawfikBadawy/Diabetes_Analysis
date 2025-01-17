@@ -14,5 +14,5 @@ Finally, NMR-based metabolite fingerprinting permitted the quantification of the
 future standardization. In parallel, in vivo antidiabetic potential of the baobab fruit using a streptozotocin
 (STZ) induced diabetic rat model was assessed. Histopathological and immune-histochemical
 investigations revealed hepatoprotective and renoprotective effects of A. digitata fruit along with
-mitigation against diabetes complications. Moreover, the administration of A. digitata fruits (150 mg kg1)
+mitigation against diabetes complications. Moreover, the administration of A. digitata fruits (150 mg kg-1)
 twice a week lowered fasting blood glucose levels.

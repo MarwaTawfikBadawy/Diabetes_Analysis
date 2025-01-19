@@ -21,4 +21,4 @@ twice a week lowered fasting blood glucose levels.
 https://doi.org/10.1039/D1RA08277A
 
 
-![Graphical_Abstract](https://github.com/user-attachments/assets/afe42d71-81ef-4626-ab42-684e90d7d644)
+![Blood_Analysis](https://github.com/user-attachments/assets/b14fceff-add3-4b54-bb48-686a7295f20e)

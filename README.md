@@ -21,4 +21,4 @@ You can find the publication here:
 https://doi.org/10.1039/D1RA08277A
 
 
-![image](https://github.com/user-attachments/assets/766c7331-be0e-4e4a-acab-987f67749417)
+![Graphical_Abstract](https://github.com/user-attachments/assets/afe42d71-81ef-4626-ab42-684e90d7d644)

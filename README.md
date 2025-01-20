@@ -1,4 +1,4 @@
-## Metabolome-based profiling of African baobab fruit (Adansonia digitata L.) using a multiplex approach of MS and NMR techniques in relation to its biological activity
+## Metabolome-based profiling of African baobab fruit (Adansonia digitata L.) using a multiplex approach of MS and NMR techniques in relation to its biological activity - RCS Advances Journal
 
 Adansonia digitata L. also known as African baobab is one of the most important fruit-producing trees,
 widely distributed in the African continent. Baobab fruits are known to possess potential health benefits

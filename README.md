@@ -22,3 +22,6 @@ https://doi.org/10.1039/D1RA08277A
 
 
 ![Blood_Analysis](https://github.com/user-attachments/assets/b14fceff-add3-4b54-bb48-686a7295f20e)
+
+Fig. S1: Negative molecular network of MS/MS data of Adansonia digitata L. fruit extract.
+![image](https://github.com/user-attachments/assets/9bda6d05-cfc2-4665-bb6c-025b881718de)

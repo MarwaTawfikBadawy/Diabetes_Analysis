@@ -24,5 +24,6 @@ https://doi.org/10.1039/D1RA08277A
 ![Blood_Analysis](https://github.com/user-attachments/assets/b14fceff-add3-4b54-bb48-686a7295f20e)
 
 Fig. 3 (a)Photomicrographs of pancerase stained by hematoxylin and eosin, toluidine blue and insulin immunohistochemical staining. (b) The diameter of pancreatic islets (μm). (c) Immunohistochemical analysis for area% of insulin expression. Data expressed as mean ± SD (**P < 0.01, ***P < 0.001). Notable arrows on the figure indicate necrobiotic changes in β-cells.
+
 ![image](https://github.com/user-attachments/assets/7840f88d-e73f-4db4-a2c0-78dc48030df7)
 

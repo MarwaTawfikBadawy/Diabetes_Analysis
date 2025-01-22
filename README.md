@@ -20,6 +20,7 @@ twice a week lowered fasting blood glucose levels.
 ### You can find the publication here:
 https://doi.org/10.1039/D1RA08277A
 
+Fig. 5 (a) Fasting blood glucose (FBG) and body weight of rats. (b) Biochemical analyses of the lipid profile, liver, and kidney functions. The groups are normal healthy rats (Normal_Control), diabetic rats without any treatment (DM_Untreated), diabetic rats administrated metformin orally (DM_Metformin), diabetic rats i.p. injection with a low dose, which is 150 mg kg−1, of A. digitata L. (DM_AD_Low), diabetic rats i.p. injection with high dose, which is 300 mg kg−1, of A. digitata L. (DM_AD_High), and healthy rats i.p. injection with high dose of A. digitata L. (AD_Non_DM_High). Figure generated with R software version 3.5.2. Data expressed as mean ± SD (**P < 0.01, ***P < 0.001). The Y-axis is representing the values of each measured parameter; glucose, creatinine, urea, uric acid, cholesterol, HDL, and TG are measured in mg dL−1, whereas ALK, ALT, and AST are measured in IU L−1. Body weight is measured in grams.
 
 ![Blood_Analysis](https://github.com/user-attachments/assets/b14fceff-add3-4b54-bb48-686a7295f20e)
 

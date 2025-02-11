@@ -18,6 +18,7 @@ investigations revealed hepatoprotective and renoprotective effects of A. digita
 mitigation against diabetes complications. Moreover, the administration of A. digitata fruits (150 mg kg-1)
 twice a week lowered fasting blood glucose levels.
 
+
 ### You can find the publication here:
 https://doi.org/10.1039/D1RA08277A
 

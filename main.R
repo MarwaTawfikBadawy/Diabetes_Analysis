@@ -17,6 +17,7 @@ Full_Blood = read_tsv("Marwa_Blood.tsv")
 ##   Group = col_character(),
 ##   Value = col_double()
 ## )
+
 glimpse(Full_Blood)
 ## Observations: 197
 ## Variables: 3

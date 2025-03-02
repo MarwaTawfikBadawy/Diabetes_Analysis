@@ -25,6 +25,7 @@ glimpse(Full_Blood)
 ## $ Group    <chr> "AD_Non_DM_High", "AD_Non_DM_High", "AD_Non_DM_High", "...
 ## $ Value    <dbl> 325, 378, 390, 265, 271, 158, 214, 300, 174, 332, 181, ...
 
+
 ggplot(Full_Blood) +
 geom_boxplot(aes(x = Group, y = Value, fill = Group)) +
 facet_wrap (~ Variable, scales = "free_y") +

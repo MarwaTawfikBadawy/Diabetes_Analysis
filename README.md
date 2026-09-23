@@ -3,7 +3,6 @@
 Royal Society of chemistry (RSC) Advances Journal
 ---
 
-
 Adansonia digitata L. also known as African baobab is one of the most important fruit-producing trees,
 widely distributed in the African continent. Baobab fruits are known to possess potential health benefits
 and nutritional value. This study aimed to holistically dissect the metabolome of A. digitata fruits using
